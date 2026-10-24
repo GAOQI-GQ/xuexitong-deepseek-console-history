@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-24 | [`a1f20f9`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/a1f20f9b7577c224d8be6f8e57ea015cba51782c) | 修复弹题答对后不点击“继续学习”的问题 | [continue-button-robust](versions/2026-10-24_a1f20f9_continue-button-robust) |
 | 2026-10-24 | [`1b05a95`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/1b05a9593c617251ffe6aa113275f867e01a73ec) | 修复视频停在结尾但未触发结束事件时不切换下一节的问题 | [near-end-fallback](versions/2026-10-24_1b05a95_near-end-fallback) |
 | 2026-10-24 | [`ad61a63`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/ad61a63074b81210482e1ed4eb93c2f327bb621a) | 修复多题视频弹题答对后不点“继续学习”、误点“下一节”的问题 | [multiquestion-continue](versions/2026-10-24_ad61a63_multiquestion-continue) |
 | 2026-10-24 | [`581b507`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/581b5078c6ef5a03e3ff2b9174b6df2ac788ca94) | 修复多选题答错后不重答、不点下一节的问题 | [multiselect-retry](versions/2026-10-24_581b507_multiselect-retry) |
