@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [`ffff6b1`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/ffff6b138c14a41b7eeec839c78b7bc2152e2f3d) | 支持同一学习页面的多段视频依次播放 | [multi-video-step](versions/2026-10-25_ffff6b1_multi-video-step) |
 | 2026-10-25 | [`c10695b`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/c10695bc70b6b83f0f4e0535797e4c73b6d18c65) | 修复答错面板被误判成通过后不再重答的问题 | [wrong-panel-retry](versions/2026-10-25_c10695b_wrong-panel-retry) |
 | 2026-10-24 | [`8d546b0`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/8d546b011c2f264d097242c6e8cf71c1d9a28fee) | README 增加搜索关键词，便于在 GitHub 搜到学习通相关仓库 | [readme-search-keywords](versions/2026-10-24_8d546b0_readme-search-keywords) |
 | 2026-10-24 | [`83eec6f`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/83eec6f5713bcd034a381dacf3afc52fc6a8de4a) | 放宽“继续学习”判定条件的误判防护 | [continue-guard-refine](versions/2026-10-24_83eec6f_continue-guard-refine) |
