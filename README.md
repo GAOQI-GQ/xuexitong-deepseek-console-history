@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [`e677607`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/e677607a26a9602ba132545a43a6e61f551fe443) | 启动版本号更新为 V800 | [version-v800](versions/2026-10-25_e677607_version-v800) |
 | 2026-10-25 | [`0cc5d1f`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/0cc5d1f90e3f1c2b8b8ecb2310aa7d14eb27e992) | 补充多场景修复：弹窗关闭兜底、切换过渡防重入与播放器跟随 | [all-scenarios-fixes](versions/2026-10-25_0cc5d1f_all-scenarios-fixes) |
 | 2026-10-25 | [`ae606a9`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/ae606a9c7e390e2921f61fc36b6079f8fa6f147b) | 弹题多次失败后限制自动跳节次数，避免反复触发任务点弹窗 | [quiz-skip-guard](versions/2026-10-25_ae606a9_quiz-skip-guard) |
 | 2026-10-25 | [`09939c3`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/09939c3432b2743bb5ef06fa820d43e48bc3ec47) | 多段视频页面的视频弹题按所属视频暂停与恢复 | [multi-video-quiz-binding](versions/2026-10-25_09939c3_multi-video-quiz-binding) |
