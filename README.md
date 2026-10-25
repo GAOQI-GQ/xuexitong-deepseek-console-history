@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [`df3e55d`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/df3e55da00d5eecce20a04c1f005132f4e9fcc99) | 修复章节测验误判导致脚本停住的问题 | [quiz-misdetect-fix](versions/2026-10-25_df3e55d_quiz-misdetect-fix) |
 | 2026-10-25 | [`54e90ac`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/54e90ac63d5756f69684ec9f9f0a196ff7a3a23c) | 全量审查后的稳定性加固 | [stability-hardening](versions/2026-10-25_54e90ac_stability-hardening) |
 | 2026-10-25 | [`e677607`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/e677607a26a9602ba132545a43a6e61f551fe443) | 启动版本号更新为 V800 | [version-v800](versions/2026-10-25_e677607_version-v800) |
 | 2026-10-25 | [`0cc5d1f`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/0cc5d1f90e3f1c2b8b8ecb2310aa7d14eb27e992) | 补充多场景修复：弹窗关闭兜底、切换过渡防重入与播放器跟随 | [all-scenarios-fixes](versions/2026-10-25_0cc5d1f_all-scenarios-fixes) |
