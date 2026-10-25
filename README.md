@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [`09939c3`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/09939c3432b2743bb5ef06fa820d43e48bc3ec47) | 多段视频页面的视频弹题按所属视频暂停与恢复 | [multi-video-quiz-binding](versions/2026-10-25_09939c3_multi-video-quiz-binding) |
 | 2026-10-25 | [`4cb0744`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/4cb07445cdbaf18fd0386d1abad930f1e15a6b0a) | 修复播放完第一段视频后误点下一节的问题 | [task-dialog-prefer-learn](versions/2026-10-25_4cb0744_task-dialog-prefer-learn) |
 | 2026-10-25 | [`07a0ac9`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/07a0ac97364ec58b4c24c123efdeca6ba8b17940) | 多视频支持覆盖任意段数，并增加切换前的加载确认 | [multi-video-load-confirm](versions/2026-10-25_07a0ac9_multi-video-load-confirm) |
 | 2026-10-25 | [`ffff6b1`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/ffff6b138c14a41b7eeec839c78b7bc2152e2f3d) | 支持同一学习页面的多段视频依次播放 | [multi-video-step](versions/2026-10-25_ffff6b1_multi-video-step) |
