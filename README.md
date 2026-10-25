@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [`ae606a9`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/ae606a9c7e390e2921f61fc36b6079f8fa6f147b) | 弹题多次失败后限制自动跳节次数，避免反复触发任务点弹窗 | [quiz-skip-guard](versions/2026-10-25_ae606a9_quiz-skip-guard) |
 | 2026-10-25 | [`09939c3`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/09939c3432b2743bb5ef06fa820d43e48bc3ec47) | 多段视频页面的视频弹题按所属视频暂停与恢复 | [multi-video-quiz-binding](versions/2026-10-25_09939c3_multi-video-quiz-binding) |
 | 2026-10-25 | [`4cb0744`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/4cb07445cdbaf18fd0386d1abad930f1e15a6b0a) | 修复播放完第一段视频后误点下一节的问题 | [task-dialog-prefer-learn](versions/2026-10-25_4cb0744_task-dialog-prefer-learn) |
 | 2026-10-25 | [`07a0ac9`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/07a0ac97364ec58b4c24c123efdeca6ba8b17940) | 多视频支持覆盖任意段数，并增加切换前的加载确认 | [multi-video-load-confirm](versions/2026-10-25_07a0ac9_multi-video-load-confirm) |
