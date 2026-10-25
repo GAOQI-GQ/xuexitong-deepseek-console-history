@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [`1b8dad4`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/1b8dad46dc5d4ff0be31290696d28ee1d9c00b2a) | 图文/视频混排：按页面任务统一调度，不再依赖固定顺序 | [mixed-media-sequencing](versions/2026-10-25_1b8dad4_mixed-media-sequencing) |
 | 2026-10-25 | [`538dd71`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/538dd717c717b1e5197a6a1825c9bfa27072af7d) | 支持一个任务点里叠着多篇图文，并修掉图文页误判章节测验 | [stacked-article-reading](versions/2026-10-25_538dd71_stacked-article-reading) |
 | 2026-10-25 | [`c6626b9`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/c6626b9670bf9660a50b45bacba9b975fa4e981b) | 自动完成阅读/图文任务点：滚动到底部后继续下一节 | [document-reading-scroll](versions/2026-10-25_c6626b9_document-reading-scroll) |
 | 2026-10-25 | [`9ff0938`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/9ff093814b9e542066ac015667bb71c86229cd4d) | 章节测验判定叠加多重依据，避免把第二个视频当测验 | [quiz-signal-guards](versions/2026-10-25_9ff0938_quiz-signal-guards) |
