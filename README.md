@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-25 | [`201771a`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/201771a764e2bd1b48917bc5555d9840f4dc04f5) | 图文多篇时加完成情况保险，避免跳着做漏做 | [document-completion-insurance](versions/2026-10-25_201771a_document-completion-insurance) |
 | 2026-10-25 | [`7ec41da`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/7ec41da4343154656a4807c509160564ee3eeac6) | 视频自动调到最高倍速，不支持则放弃 | [auto-max-playback-rate](versions/2026-10-25_7ec41da_auto-max-playback-rate) |
 | 2026-10-25 | [`63f6729`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/63f672986e2ce300a4c595e2c15174d788480cbb) | 内容优先识别试卷页：一上来就是题目也能自动作答 | [quiz-content-detection](versions/2026-10-25_63f6729_quiz-content-detection) |
 | 2026-10-25 | [`1b8dad4`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/1b8dad46dc5d4ff0be31290696d28ee1d9c00b2a) | 图文/视频混排：按页面任务统一调度，不再依赖固定顺序 | [mixed-media-sequencing](versions/2026-10-25_1b8dad4_mixed-media-sequencing) |
