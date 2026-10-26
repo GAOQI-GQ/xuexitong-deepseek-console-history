@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-26 | [`36681c2`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/36681c288370131f81bc6377e5fbdf4d6205a17a) | 加停滞自检：卡住也能自己恢复，不再静静停住 | [stall-self-check](versions/2026-10-26_36681c2_stall-self-check) |
 | 2026-10-25 | [`201771a`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/201771a764e2bd1b48917bc5555d9840f4dc04f5) | 图文多篇时加完成情况保险，避免跳着做漏做 | [document-completion-insurance](versions/2026-10-25_201771a_document-completion-insurance) |
 | 2026-10-25 | [`7ec41da`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/7ec41da4343154656a4807c509160564ee3eeac6) | 视频自动调到最高倍速，不支持则放弃 | [auto-max-playback-rate](versions/2026-10-25_7ec41da_auto-max-playback-rate) |
 | 2026-10-25 | [`63f6729`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/63f672986e2ce300a4c595e2c15174d788480cbb) | 内容优先识别试卷页：一上来就是题目也能自动作答 | [quiz-content-detection](versions/2026-10-25_63f6729_quiz-content-detection) |
