@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-26 | [`7972254`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/7972254afd3efcb8f5db5672332270540a3c54ef) | 切到视频任务点先等视频加载，不再误当纯图文去滚动 | [video-task-load-wait](versions/2026-10-26_7972254_video-task-load-wait) |
 | 2026-10-26 | [`fe06999`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/fe069994d522e2f70617ace820ebd1bb3e2c4750) | 图文滚动加进度心跳，避免自检把长篇图文误判成卡住 | [doc-scroll-heartbeat](versions/2026-10-26_fe06999_doc-scroll-heartbeat) |
 | 2026-10-26 | [`e8f3ff4`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/e8f3ff41bce936662b7bf531a975d085f1e5abbe) | 修复三处跨作用域 ReferenceError：停滞自检与自动最高倍速此前从未真正生效 | [scope-referenceerror-fix](versions/2026-10-26_e8f3ff4_scope-referenceerror-fix) |
 | 2026-10-26 | [`dbde6d7`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/dbde6d70e8b58a61a71bef594a5a7ea97671302c) | 清理重复与死代码，文件净减 88 行 | [dead-code-cleanup](versions/2026-10-26_dbde6d7_dead-code-cleanup) |
