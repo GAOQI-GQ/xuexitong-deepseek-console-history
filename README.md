@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-26 | [`dbde6d7`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/dbde6d70e8b58a61a71bef594a5a7ea97671302c) | 清理重复与死代码，文件净减 88 行 | [dead-code-cleanup](versions/2026-10-26_dbde6d7_dead-code-cleanup) |
 | 2026-10-26 | [`8d436d1`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/8d436d14a2106a5053025ac26d4b6ba6beb4faf6) | 减轻浏览器负担并修复启动变慢 | [perf-and-fast-start](versions/2026-10-26_8d436d1_perf-and-fast-start) |
 | 2026-10-26 | [`9233676`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/92336767a5211e909d393d2e18844e652cb08d82) | 视频加载失败时自动切换备用线路（公网1/公网2） | [alternate-video-line-retry](versions/2026-10-26_9233676_alternate-video-line-retry) |
 | 2026-10-26 | [`36681c2`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/36681c288370131f81bc6377e5fbdf4d6205a17a) | 加停滞自检：卡住也能自己恢复，不再静静停住 | [stall-self-check](versions/2026-10-26_36681c2_stall-self-check) |
