@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-26 | [`e8f3ff4`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/e8f3ff41bce936662b7bf531a975d085f1e5abbe) | 修复三处跨作用域 ReferenceError：停滞自检与自动最高倍速此前从未真正生效 | [scope-referenceerror-fix](versions/2026-10-26_e8f3ff4_scope-referenceerror-fix) |
 | 2026-10-26 | [`dbde6d7`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/dbde6d70e8b58a61a71bef594a5a7ea97671302c) | 清理重复与死代码，文件净减 88 行 | [dead-code-cleanup](versions/2026-10-26_dbde6d7_dead-code-cleanup) |
 | 2026-10-26 | [`8d436d1`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/8d436d14a2106a5053025ac26d4b6ba6beb4faf6) | 减轻浏览器负担并修复启动变慢 | [perf-and-fast-start](versions/2026-10-26_8d436d1_perf-and-fast-start) |
 | 2026-10-26 | [`9233676`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/92336767a5211e909d393d2e18844e652cb08d82) | 视频加载失败时自动切换备用线路（公网1/公网2） | [alternate-video-line-retry](versions/2026-10-26_9233676_alternate-video-line-retry) |
