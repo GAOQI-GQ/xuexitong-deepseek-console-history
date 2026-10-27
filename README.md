@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-28 | [`6c9f4b8`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/6c9f4b88c3dd819c786fa84b5da774f19e04b366) | 视频弹题改成全自动穷举：判错就换，两选项直接反选 | [video-quiz-exhaustive-answers](versions/2026-10-28_6c9f4b8_video-quiz-exhaustive-answers) |
 | 2026-10-27 | [`9682e87`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/9682e87411d1c6d49f085f0bc4438f67ced6df8e) | 修复视频播完后整页卡死：不再抱着失效播放器无限重启 | [dead-player-stall-fix](versions/2026-10-27_9682e87_dead-player-stall-fix) |
 | 2026-10-26 | [`7972254`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/7972254afd3efcb8f5db5672332270540a3c54ef) | 切到视频任务点先等视频加载，不再误当纯图文去滚动 | [video-task-load-wait](versions/2026-10-26_7972254_video-task-load-wait) |
 | 2026-10-26 | [`fe06999`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/fe069994d522e2f70617ace820ebd1bb3e2c4750) | 图文滚动加进度心跳，避免自检把长篇图文误判成卡住 | [doc-scroll-heartbeat](versions/2026-10-26_fe06999_doc-scroll-heartbeat) |
