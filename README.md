@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-28 | [`10415cb`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/10415cbc3d4415e0629f24986af956f9b0b7163a) | 按目录打勾整节跳过，已完成的小节不再重播 | [skip-completed-section](versions/2026-10-28_10415cb_skip-completed-section) |
 | 2026-10-28 | [`b09abab`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/b09abab7d4288453995fa12bd1e8a3bc16319b4d) | 空白的章节测验小节自动跳过，不再停下来等人手动完成 | [skip-empty-quiz-section](versions/2026-10-28_b09abab_skip-empty-quiz-section) |
 | 2026-10-28 | [`0bd79e7`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/0bd79e7adf1ea55a034b730b5976e6abc192f545) | 删掉已经不再使用的弹题作答次数常量 | [drop-unused-quiz-attempt-const](versions/2026-10-28_0bd79e7_drop-unused-quiz-attempt-const) |
 | 2026-10-28 | [`6c9f4b8`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/6c9f4b88c3dd819c786fa84b5da774f19e04b366) | 视频弹题改成全自动穷举：判错就换，两选项直接反选 | [video-quiz-exhaustive-answers](versions/2026-10-28_6c9f4b8_video-quiz-exhaustive-answers) |
