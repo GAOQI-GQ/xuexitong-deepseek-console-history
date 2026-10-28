@@ -11,6 +11,7 @@
 
 | 日期 | 提交 | 说明 | 快照目录 |
 | --- | --- | --- | --- |
+| 2026-10-28 | [`b09abab`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/b09abab7d4288453995fa12bd1e8a3bc16319b4d) | 空白的章节测验小节自动跳过，不再停下来等人手动完成 | [skip-empty-quiz-section](versions/2026-10-28_b09abab_skip-empty-quiz-section) |
 | 2026-10-28 | [`0bd79e7`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/0bd79e7adf1ea55a034b730b5976e6abc192f545) | 删掉已经不再使用的弹题作答次数常量 | [drop-unused-quiz-attempt-const](versions/2026-10-28_0bd79e7_drop-unused-quiz-attempt-const) |
 | 2026-10-28 | [`6c9f4b8`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/6c9f4b88c3dd819c786fa84b5da774f19e04b366) | 视频弹题改成全自动穷举：判错就换，两选项直接反选 | [video-quiz-exhaustive-answers](versions/2026-10-28_6c9f4b8_video-quiz-exhaustive-answers) |
 | 2026-10-27 | [`9682e87`](https://github.com/GAOQI-GQ/xuexitong-deepseek-console/commit/9682e87411d1c6d49f085f0bc4438f67ced6df8e) | 修复视频播完后整页卡死：不再抱着失效播放器无限重启 | [dead-player-stall-fix](versions/2026-10-27_9682e87_dead-player-stall-fix) |
